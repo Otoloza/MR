@@ -3,5 +3,5 @@
 Calculates the radius and the mass in solar units for 
 given effective temperature (in K) and surface gravity (in dex)
 
-<Requirements: >
+Requirements: 
 table "mr.dat"
